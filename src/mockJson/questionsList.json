@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Html",
+        "questionsList": [
+            {
+                "question": "What is Html?",
+                "answer": "Html is hypertext markup language"
+            },
+            {
+                "question": "What is semantic HTML?",
+                "answer": "Semantic HTML is a coding style. It is the use of HTML markup to reinforce the semantics or meaning of the content"
+            }
+        ]
+    },
+    {
+        "type": "Css",
+        "questionsList": [
+            {
+                "question": "What is Css?",
+                "answer": "CSS is the language we use to style an HTML document"
+            },
+            {
+                "question": "What is The display Property?",
+                "answer": "The display property is the most important CSS property for controlling layout."
+            }
+        ]
+    },
+    {
+        "type": "Javascript",
+        "questionsList": [
+            {
+                "question": "What is Javascript?",
+                "answer": "Javascript is a client sideas well as server side scripting language"
+            },
+            {
+                "question": "What is Hoisting?",
+                "answer": "Hoisting is nothing but javascript default behaviour of moving declarations to the top"
+            }
+        ]
+    }
+]
